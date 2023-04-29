@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Lu Meng"
   avatar           : "profile2.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "welcome to my homepage"
   location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=tf6DzGYAAAAJ&hl=zh-CN&oi=ao"
   email            : 
   researchgate     :   "https://www.researchgate.net/profile/Lu-Meng-4"
